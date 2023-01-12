@@ -1,4 +1,4 @@
-package uz.eloving.game
+package uz.eloving.game.util
 
 sealed class Screen(val route: String) {
     object MainScreen : Screen("main_screen")

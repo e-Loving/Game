@@ -7,7 +7,6 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import uz.eloving.game.page.MainPage
-import uz.eloving.game.Screen
 import uz.eloving.game.page.LevelPage
 
 @Composable
